@@ -1,0 +1,6 @@
+
+// stripe.config.js
+module.exports = {
+  stripePublishableKey: 'pk_test_51QJXQDEDAHperdvjLi2VV1vgHqKaMZD0T4ZSX2cmCVkRnDO295bkKm9XlgeJpTyJb7VrluQGkpTQEuc4qgooXSNs00gdiWp4DI',
+  stripeSecretKey: 'sk_test_51QJXQDEDAHperdvjISpSZ8E2Q6szhhSyLQ3Enldt9CXCpythbK1Xby4ag9PkIpZF9lTlzOOQX59jBEZE1q0o7FlE005b5MFQ4m'
+};
